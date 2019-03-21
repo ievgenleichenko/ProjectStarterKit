@@ -19,9 +19,11 @@ protocol ___VARIABLE_fileName:identifier___Output {
 class ___FILEBASENAMEASIDENTIFIER___: NSObject {
     
     private weak var view: ___VARIABLE_fileName:identifier___Interface?
+    private let router: ___VARIABLE_fileName:identifier___RouterProtocol
     
-    init(with view: ___VARIABLE_fileName:identifier___Interface) {
+    init(withView view: ___VARIABLE_fileName:identifier___Interface, router: ___VARIABLE_fileName:identifier___RouterProtocol) {
         self.view = view
+        self.router = router
     }
 }
 

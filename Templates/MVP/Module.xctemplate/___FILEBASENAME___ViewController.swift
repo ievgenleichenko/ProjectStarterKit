@@ -10,7 +10,7 @@ import UIKit
 
 class ___FILEBASENAMEASIDENTIFIER___: UIViewController {
 
-    private var presenter: ___VARIABLE_fileName:identifier___Output?
+    var presenter: ___VARIABLE_fileName:identifier___Output?
 
     // MARK: - Lifecycle -
 
