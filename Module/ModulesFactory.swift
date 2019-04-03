@@ -6,7 +6,6 @@
 //  Copyright © 2019 yevgeniy. All rights reserved.
 //
 
-import Foundation
 import UIKit
 
 class ModulesFactory {
