@@ -1,0 +1,11 @@
+strings:
+  inputs: ProjectName/Resources/Base.lproj/Localizable.strings
+  outputs:
+    templateName: structured-swift4
+    output: ProjectName/Generated/Localization.swift
+    params: {enumName: Localization}
+xcassets:
+  inputs: ProjectName/Resources/Assets.xcassets
+  outputs:
+    templateName: swift4
+    output: ProjectName/Generated/Assets.swift
