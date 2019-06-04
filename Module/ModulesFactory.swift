@@ -1,9 +1,7 @@
 //
 //  ModulesFactory.swift
-//  Quickly
 //
-//  Created by Евгений on 2/13/19.
-//  Copyright © 2019 yevgeniy. All rights reserved.
+//  Created by Евгений
 //
 
 import UIKit

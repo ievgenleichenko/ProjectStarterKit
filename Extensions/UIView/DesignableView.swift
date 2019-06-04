@@ -1,9 +1,7 @@
 //
 //  DesignableView.swift
-//  GradeMiners
 //
-//  Created by Evgeniy Leychenko on 17.08.2018.
-//  Copyright © 2018 TAS. All rights reserved.
+//  Created by Evgeniy Leychenko
 //
 
 import Foundation
