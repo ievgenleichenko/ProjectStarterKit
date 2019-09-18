@@ -12,14 +12,14 @@ class ___FILEBASENAMEASIDENTIFIER___: UIViewController {
 
     var presenter: ___VARIABLE_fileName:identifier___Output?
 
-    // MARK: - Lifecycle -
+    // MARK: - Lifecycle
 
     override func viewDidLoad() {
         super.viewDidLoad()
     }
 }
 
-// MARK: - ___VARIABLE_fileName:identifier___Interface -
+// MARK: - ___VARIABLE_fileName:identifier___Interface
 
 extension ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_fileName:identifier___Interface {
     
