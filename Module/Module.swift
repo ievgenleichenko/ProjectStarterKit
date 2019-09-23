@@ -6,7 +6,7 @@
 
 import Foundation
 
-class Module<PresenterType, InterfaceType> {
+struct Module<PresenterType, InterfaceType> {
     
     private(set) var presenter: PresenterType
     private(set) var interface: InterfaceType
